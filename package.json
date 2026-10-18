@@ -1,0 +1,21 @@
+{
+  "name": "devops-piplines",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "run": "node index.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/SharoSN/devops-piplines.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "type": "commonjs",
+  "bugs": {
+    "url": "https://github.com/SharoSN/devops-piplines/issues"
+  },
+  "homepage": "https://github.com/SharoSN/devops-piplines#readme"
+}
